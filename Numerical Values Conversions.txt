@@ -1,0 +1,58 @@
+Pstatus
+A = 1
+T = 2
+
+address
+U = 1
+R = 0
+
+schoolsup
+yes = 1
+no = 0
+
+famsup
+yes = 1
+no = 0
+
+paid
+yes = 1
+no = 0
+
+activities
+yes = 1
+no = 0
+
+nursery
+yes = 1
+no = 0
+
+higher
+yes = 1
+no = 0
+
+internet
+yes = 1
+no = 0
+
+romantic
+yes = 1
+no = 0
+
+gaurdian
+mother = 1
+father = 0
+
+Mjob
+other = 1
+services = 2
+at_home = 3
+teacher = 4
+health = 5
+
+Fjob
+other = 1
+services = 2
+at_home = 3
+teacher = 4
+health = 5
+
